@@ -1,5 +1,13 @@
-d 'DEA': Data envelopment analysis
+d 'vecar_vecar6': vector autoregressive (VAR) And vector autoregressive (VAR) models (version 6) Use vecar And vecar6 With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _gstdn.ado
+f matmap.ado
+f matmap.hlp
+f omninorm.ado
+f omninorm.hlp
+f vecar.ado
+f vecar.hlp
+f vecar6.ado
+f vecar6.hlp
+f wntstmvq.ado
+f wntstmvq.hlp
